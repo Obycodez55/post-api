@@ -1,0 +1,11 @@
+{
+  "name": "post-api",
+  "version": "1.0.0",
+  "description": "An API for managing posts",
+  "main": "./dist/server.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "obycodez55",
+  "license": "ISC"
+}
